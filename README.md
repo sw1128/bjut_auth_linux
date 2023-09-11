@@ -1,5 +1,5 @@
-# 【Linux】北京工业大学（BJUT）校园网一键认证bash脚本
 使用方法：
+
 (1) 赋予权限
 ```bash
 sudo chmod 777 auth.sh
