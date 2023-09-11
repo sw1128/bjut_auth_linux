@@ -8,7 +8,7 @@ sudo chmod 777 auth.sh
 ```
 (2) 执行脚本
 蓝色页面：
-```bash
+```
 v4、v6、v46分别对应ipv4认证、ipv6认证、ipv4和ipv6统一认证
 
 Usage:
@@ -16,6 +16,6 @@ bash auth.sh <StudentID> <Password> <v4|v6|v46>
 ```
 
 红色页面：
-```bash
+```
 bash auth.sh <StudentID> <Password>
 ```
